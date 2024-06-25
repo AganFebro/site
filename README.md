@@ -1,6 +1,6 @@
 # Template from
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+This site was built using [vCard](https://github.com/codewithsadee/vcard-personal-portfolio).
 
 ## License
 
